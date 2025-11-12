@@ -1,0 +1,15 @@
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\bin\Debug\net9.0\Test-ConsoleApp.exe
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\bin\Debug\net9.0\Test-ConsoleApp.deps.json
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\bin\Debug\net9.0\Test-ConsoleApp.runtimeconfig.json
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\bin\Debug\net9.0\Test-ConsoleApp.dll
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\bin\Debug\net9.0\Test-ConsoleApp.pdb
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\obj\Debug\net9.0\Test-ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\obj\Debug\net9.0\Test-ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\obj\Debug\net9.0\Test-ConsoleApp.AssemblyInfo.cs
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\obj\Debug\net9.0\Test-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\obj\Debug\net9.0\Test-ConsoleApp.sourcelink.json
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\obj\Debug\net9.0\Test-ConsoleApp.dll
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\obj\Debug\net9.0\refint\Test-ConsoleApp.dll
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\obj\Debug\net9.0\Test-ConsoleApp.pdb
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\obj\Debug\net9.0\Test-ConsoleApp.genruntimeconfig.cache
+C:\Users\VM\RiderProjects\Cs-learning\Test-ConsoleApp\Test-ConsoleApp\obj\Debug\net9.0\ref\Test-ConsoleApp.dll
