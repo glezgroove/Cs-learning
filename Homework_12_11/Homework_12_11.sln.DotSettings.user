@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0834b8f0_002D6490_002D4a0b_002D9b86_002Db332c93347e1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7CFCB47D-61BF-4CEB-B9E2-4D8CA824BBA2::net9.0::Unit_Test.UnitTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4381fd75_002D483f_002D4563_002Dbb97_002D010b91469f65/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Unit_Test&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\VM\RiderProjects\Cs-learning\Homework_12_11\Unit_Test" Presentation="&amp;lt;Unit_Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=618015de_002Dad84_002D4526_002D9571_002Dddbf557f8cc1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetOdd_NoNumbers" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7CFCB47D-61BF-4CEB-B9E2-4D8CA824BBA2::net9.0::Unit_Test.UnitTest.GetOdd_NoNumbers&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=90cb3c2a_002D1571_002D4b0a_002D90e0_002D12949fb98259/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Unit_Test&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\VM\RiderProjects\Cs-learning\Homework_12_11\Unit_Test" Presentation="&amp;lt;Unit_Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
