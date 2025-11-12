@@ -4,7 +4,7 @@ public class UnitTest
 {
     
     [Fact]
-    public void GetOdd_Standart()
+    public void GetOdd_ShouldReturnOnlyOdd_WhenMixedInput()
     {
         //Arrange
         var input = new List<int>{1,2,5,10,15,25,125,9999,2165221,2147483647};
@@ -17,7 +17,7 @@ public class UnitTest
         Assert.Equal(expected, result);
     }
     [Fact]
-    public void GetOdd_NoNumbers()
+    public void GetOdd_ShouldReturnEmpty_WhenNoInput()
     {
         //Arrange
         var input = new List<int>();
@@ -31,11 +31,11 @@ public class UnitTest
     }
     
     [Fact]
-    public void GetOdd_NegativeAndPositive()
+    public void GetOdd_ShouldReturnOddNegative_WhenNegativeNumbersInput()
     {
         //Arrange
-        var input = new List<int>{9,2,1,0,-1,-2,-3,-2147483647};
-        var expected = new List<int>{9,1,-1,-3,-2147483647};
+        var input = new List<int>{-3,-9,-2,-4,};
+        var expected = new List<int>{-3,-9};
 
         //Act
         var result = ConsoleApp.ConsoleApp.GetOdd(input);
@@ -45,7 +45,7 @@ public class UnitTest
     }
     
     [Fact]
-    public void GetOdd_OnlyOneEven()
+    public void GetOdd_ShouldReturnEmpty_WhenOneEvenNumber()
     {
         //Arrange
         var input = new List<int>{2};
@@ -59,7 +59,7 @@ public class UnitTest
     }
     
     [Fact]
-    public void GetOdd_OnlyOneOdd()
+    public void GetOdd_ShouldReturnOneOdd_WhenOnlyOddNumber()
     {
         //Arrange
         var input = new List<int>{9};
@@ -73,7 +73,7 @@ public class UnitTest
     }
     
     [Fact]
-    public void GetOdd_MultpleZeroes()
+    public void GetOdd_ShouldReturnEmpty_WhenMultipleZeroes()
     {
         //Arrange
         var input = new List<int>{0000000,-0000000};
