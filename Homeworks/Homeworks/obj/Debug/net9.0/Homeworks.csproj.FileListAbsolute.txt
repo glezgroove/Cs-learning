@@ -1,0 +1,15 @@
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\bin\Debug\net9.0\Homeworks.exe
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\bin\Debug\net9.0\Homeworks.deps.json
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\bin\Debug\net9.0\Homeworks.runtimeconfig.json
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\bin\Debug\net9.0\Homeworks.dll
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\bin\Debug\net9.0\Homeworks.pdb
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\obj\Debug\net9.0\Homeworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\obj\Debug\net9.0\Homeworks.AssemblyInfoInputs.cache
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\obj\Debug\net9.0\Homeworks.AssemblyInfo.cs
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\obj\Debug\net9.0\Homeworks.csproj.CoreCompileInputs.cache
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\obj\Debug\net9.0\Homeworks.sourcelink.json
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\obj\Debug\net9.0\Homeworks.dll
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\obj\Debug\net9.0\refint\Homeworks.dll
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\obj\Debug\net9.0\Homeworks.pdb
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\obj\Debug\net9.0\Homeworks.genruntimeconfig.cache
+C:\Users\VM\RiderProjects\Cs-learning\14_11_Homework_First_Last_Numbers\Homeworks\obj\Debug\net9.0\ref\Homeworks.dll
