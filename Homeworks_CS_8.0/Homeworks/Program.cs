@@ -1,9 +1,24 @@
-﻿using static System.Console;
+﻿using System.Collections.Immutable;
+using static System.Console;
 
 namespace Homeworks
 {
     public class HomeworkConsoleApp
     {
+        public sealed record User
+        {
+            public required Guid Id { get; init; }
+            public required int Age { get; init; }
+            public string? Name { get; init; }
+        }
+        
+        public ICollection<Guid> SelectUserIds(ICollection<User> users, int age)
+        {
+            return users.Where(user => user.Age > age).Select(user => user.Id).ToList();
+        }
+
+             
+
         
         public int? GetElementAtOrDefault (ICollection<int>? collection,int index)
         {
@@ -67,7 +82,7 @@ namespace Homeworks
         static void Main(string[] args)
         {
             var consoleApp = new HomeworkConsoleApp();
-            var userInputList = consoleApp.InputHandler();
+            //var userInputList = consoleApp.InputHandler();
             //var result = consoleApp.GetPositiveNumbers(userInputList);
             //foreach (int number in result)
             //WriteLine(number);
@@ -75,7 +90,7 @@ namespace Homeworks
             //WriteLine(result);
             //result = consoleApp.GetLastOddNumber(userInputList);
             //WriteLine(result);
-            WriteLine(consoleApp.GetElementAtOrDefault(userInputList,2));
+            //WriteLine(consoleApp.GetElementAtOrDefault(userInputList,2));
         }
     } 
 }
