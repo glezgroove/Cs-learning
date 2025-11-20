@@ -12,13 +12,21 @@ namespace Homeworks
             public string? Name { get; init; }
         }
         
+        public ICollection<User> SelectUsers(ICollection<User> users)
+        {
+            if (users == null)
+            {
+                return [];
+            }
+            return users
+                .OrderBy(user => user.Age)
+                .ToList();
+        }
         public ICollection<Guid> SelectUserIds(ICollection<User> users, int age)
         {
             return users.Where(user => user.Age > age).Select(user => user.Id).ToList();
         }
-
-             
-
+        
         
         public int? GetElementAtOrDefault (ICollection<int>? collection,int index)
         {
