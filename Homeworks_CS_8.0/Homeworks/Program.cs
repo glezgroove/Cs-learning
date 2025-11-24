@@ -3,9 +3,47 @@ using static System.Console;
 
 namespace Homeworks
 {
+    
+    
     public class HomeworkConsoleApp
     {
         
+        public sealed record User2
+        {
+            public required Guid Id { get; init; }
+            public required int Age { get; init; }
+            public string? Name { get; init; }
+            public ICollection<Project>? Projects { get; init; }
+        }
+
+        public sealed record Project
+        {
+            public required Guid Id { get; init; }
+            public required string Name { get; init; }
+        }
+
+        public sealed record User
+        {
+            public required Guid Id { get; init; }
+            public required int Age { get; init; }
+            public string? Name { get; init; }
+        }
+
+        public ICollection<Project> SelectUserProjects(ICollection<User2> users, int age)
+        {
+        //    if (users == null)
+        //        {
+        //        return [];  
+        //        }
+
+            return users
+                .Where(u => u.Age > age)
+                .Where(u => u.Projects != null)
+                .SelectMany(u => u.Projects)
+                .ToList();
+
+        }
+
         public ICollection<User> DescendingAgeUsers(ICollection<User>? users, int age)
         {
             if (users == null)
@@ -16,12 +54,6 @@ namespace Homeworks
                 .Where(user => user.Age >= age)
                 .OrderByDescending(user => user.Age)
                 .ToList();
-        }
-        public sealed record User
-        {
-            public required Guid Id { get; init; }
-            public required int Age { get; init; }
-            public string? Name { get; init; }
         }
         
         public ICollection<User> SelectUsers(ICollection<User> users)
