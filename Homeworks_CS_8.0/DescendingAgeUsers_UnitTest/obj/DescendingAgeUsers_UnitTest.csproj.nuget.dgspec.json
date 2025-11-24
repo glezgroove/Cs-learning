@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VM\\RiderProjects\\Cs-learning\\Homeworks\\DescendingAgeUsers_UnitTest\\DescendingAgeUsers_UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VM\\RiderProjects\\Cs-learning\\Homeworks\\DescendingAgeUsers_UnitTest\\DescendingAgeUsers_UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VM\\RiderProjects\\Cs-learning\\Homeworks\\DescendingAgeUsers_UnitTest\\DescendingAgeUsers_UnitTest.csproj",
+        "projectName": "DescendingAgeUsers_UnitTest",
+        "projectPath": "C:\\Users\\VM\\RiderProjects\\Cs-learning\\Homeworks\\DescendingAgeUsers_UnitTest\\DescendingAgeUsers_UnitTest.csproj",
+        "packagesPath": "C:\\Users\\VM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM\\RiderProjects\\Cs-learning\\Homeworks\\DescendingAgeUsers_UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VM\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\VM\\RiderProjects\\Cs-learning\\Homeworks\\Homeworks\\Homeworks.csproj": {
+                "projectPath": "C:\\Users\\VM\\RiderProjects\\Cs-learning\\Homeworks\\Homeworks\\Homeworks.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VM\\RiderProjects\\Cs-learning\\Homeworks\\Homeworks\\Homeworks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VM\\RiderProjects\\Cs-learning\\Homeworks\\Homeworks\\Homeworks.csproj",
+        "projectName": "Homeworks",
+        "projectPath": "C:\\Users\\VM\\RiderProjects\\Cs-learning\\Homeworks\\Homeworks\\Homeworks.csproj",
+        "packagesPath": "C:\\Users\\VM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VM\\RiderProjects\\Cs-learning\\Homeworks\\Homeworks\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VM\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

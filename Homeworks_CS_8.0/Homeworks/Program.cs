@@ -5,6 +5,18 @@ namespace Homeworks
 {
     public class HomeworkConsoleApp
     {
+        
+        public ICollection<User> DescendingAgeUsers(ICollection<User>? users, int age)
+        {
+            if (users == null)
+            {
+                return [];
+            }
+            return users
+                .Where(user => user.Age >= age)
+                .OrderByDescending(user => user.Age)
+                .ToList();
+        }
         public sealed record User
         {
             public required Guid Id { get; init; }
